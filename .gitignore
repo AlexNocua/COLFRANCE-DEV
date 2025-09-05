@@ -1,0 +1,8 @@
+# Ignorar archivo .env (credenciales y configuración)
+.env
+
+# Ignorar carpetas generadas por Python
+__pycache__/
+
+# Ignorar carpeta de documentación
+docs/
